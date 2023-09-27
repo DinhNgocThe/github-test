@@ -1,0 +1,11 @@
+body {
+    width: 960px;
+    font-family: Arial,sans-serif;
+    color: #fcfcfc;
+    background-color: #355664;
+    margin-left: 12%;
+}
+body {
+    display: block;
+    margin: 8px;
+}
